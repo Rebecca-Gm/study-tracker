@@ -6,7 +6,7 @@ Features
 
 Tick a box (change [ ] to [x]) only when the feature really works.
 
- Shows the time left as mm:ss
+ [X]Shows the time left as mm:ss
  Counts down every second
  Start button
  Pause button
